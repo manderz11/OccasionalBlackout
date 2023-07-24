@@ -1,5 +1,7 @@
 # OccasionalBlackout
 
+-- CURRENTLY BROKEN --
+
 A Exiled plugin for SCP:SL. This plugin turns off all the lights in the facility every set range of time in secconds for a set range of time in seconds.
 
 ## Installation
